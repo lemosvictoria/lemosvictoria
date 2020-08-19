@@ -9,4 +9,3 @@ Cientista da Computação em formação
 
 - 💼 Estagiária de Redes de Computadores no Tribunal Regional Federal da 1ª Região
 - 💘 Techs: HTML, CSS, Javascript, Python
-- 💓 Frameworks: Express, React.js, Sass
