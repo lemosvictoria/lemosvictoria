@@ -3,7 +3,7 @@
 
 - 👩🏻 20 anos
 - 📍 Brasília - DF
-- 👩🏻‍🎓📘 Graduanda em Ciência da Computação, na faculdade IESB
+- 👩🏻‍🎓 Graduanda em Ciência da Computação, na faculdade IESB
 - 💼 Estagiária de Redes de Computadores no Tribunal Regional Federal da 1ª Região
 - 💻 Techs: HTML, CSS, Javascript, Python
 
