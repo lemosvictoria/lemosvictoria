@@ -1,7 +1,7 @@
 ## Olá! 🙋🏻‍♀️ Seja bem-vindo(a) 👩🏻‍💻
 
 
-- 👩🏻 20 anos de idade
+- 👩🏻 20 anos
 - 📍 Brasília - DF
 - 👩🏻‍🎓📘 Graduanda em Ciência da Computação, na faculdade IESB
 - 💼 Estagiária de Redes de Computadores no Tribunal Regional Federal da 1ª Região
