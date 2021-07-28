@@ -1,10 +1,10 @@
 ## Olá! 🙋🏻‍♀️ Seja bem-vindo(a) 👩🏻‍💻
 
 
-- 👩🏻 20 anos
+- 👩🏻 21 anos
 - 📍 Brasília - DF
 - 👩🏻‍🎓 Graduanda em Ciência da Computação na faculdade IESB
-- 💼 Desenvolvedora|Scrum Master na Truly Systems
+- 💼 Desenvolvedora | Scrum Master
 - 💻 Techs: HTML, CSS, Javascript
 
 
