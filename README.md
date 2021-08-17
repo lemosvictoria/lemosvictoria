@@ -4,8 +4,8 @@
 - 👩🏻 21 anos
 - 📍 Brasília - DF
 - 👩🏻‍🎓 Graduanda em Ciência da Computação na faculdade IESB
-- 💼 Desenvolvedora | Scrum Master
-- 💻 Techs: HTML, CSS, Javascript
+- 💼 Scrum Master | Desenvolvedora
+- 💻 Techs: HTML, CSS, Javascript, Kotlin
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorialuisatl/)](https://www.linkedin.com/in/victorialuisatl/)
