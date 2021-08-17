@@ -2,7 +2,7 @@
 
 
 - 👩🏻 21 anos
-- 📍 Brasília - DF
+- 📍 DF/GO
 - 👩🏻‍🎓 Graduanda em Ciência da Computação na faculdade IESB
 - 💼 Scrum Master | Desenvolvedora
 - 💻 Techs: HTML, CSS, Javascript, Kotlin
