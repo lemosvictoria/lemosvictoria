@@ -1,11 +1,11 @@
 ## Olá! 🙋🏻‍♀️ Seja bem-vindo(a) 👩🏻‍💻
 
 
-- 👩🏻 21 anos
+- 👩🏻 22 anos
 - 📍 DF/GO
 - 👩🏻‍🎓 Graduanda em Ciência da Computação na faculdade IESB
-- 💼 Scrum Master | Desenvolvedora
-- 💻 Techs: HTML, CSS, Javascript, Kotlin
+- 💼 Agilista
+- 💻 Techs: HTML, CSS, Javascript, Kotlin, Python
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorialuisatl/)](https://www.linkedin.com/in/victorialuisatl/)
